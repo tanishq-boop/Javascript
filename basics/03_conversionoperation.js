@@ -22,4 +22,30 @@ console.log(booleanIsLoogedIn);
 let somenumber =33
 let stringnumber = String(somenumber)
 console.log(stringnumber);
-console.log(typeof stringnumber);
+console.log(typeof stringnumber); 
+
+//*********************************************Operations**************************************************
+
+let value = 2
+let negvalue = -value
+
+let str1 = "Hello "
+let str2 = "World"
+let str3 = str1+str2
+// console.log(str3);
+// console.log(str1 + str2); both are correct and combines two srings we cannot use subtraction operator between two strings
+
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+// console.log(true); => true
+// console.log(+true); => 1
+// console.log(true+); => error
+// console.log(+""); => 0
+
+
+
+
+
+
