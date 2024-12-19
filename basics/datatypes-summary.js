@@ -32,3 +32,10 @@ const heroes = ["Ironman", "Hulk", "Jethalal"];
  console.log(typeof heroes);
 
 //JavaScript is dynamically typed In dynamically typed languages, the data types of variables are determined by the value they hold at runtime. This means that a variable of the same name can be used to hold different data types.
+
+
+
+//*************************************************************************************************************** */
+
+//Stack(Primitive) , Heap memory(Reference)
+
