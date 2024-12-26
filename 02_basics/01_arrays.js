@@ -6,7 +6,7 @@ const myArr2 = new Array(0,1,2,3,4,5)
 
 //Array method
 
-// myarr.push(9)   // push adds the arguments to th earray 
+// myarr.push(9)   // push adds the arguments to the array 
 // myarr.push(6)
 // myarr.pop()    // pop removes the last element of the array
 
