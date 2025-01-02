@@ -47,11 +47,20 @@ const users = [
     }
 ]
 
-console.log(users[0].id);
+// console.log(users[0].id);
 
-console.log(Object.keys(tinderuser));
-console.log(Object.values(tinderuser));
-console.log(Object.entries(tinderuser));
+// console.log(Object.keys(tinderuser));
+// console.log(Object.values(tinderuser));
+// console.log(Object.entries(tinderuser));
 
-console.log(tinderuser.hasOwnProperty('isLoggedIn'));
+// console.log(tinderuser.hasOwnProperty('isLoggedIn'));
 
+const course = {
+    coursename : "JS in hindi",
+    coursepprice  : 999,
+    courseteacher : "Hitesh Choudhary"
+}
+
+const{courseteacher : instructor} = course;  // for easier access of values
+
+console.log(instructor);
