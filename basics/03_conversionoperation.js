@@ -12,6 +12,7 @@ console.log(valueInNumber);
 //"33"=> 33
 //"33abc"=> NaN
 // true/false => 1/0;
+// If score=NULL then output according to above code => 0
 
 let IsLoggedIn = ""
 let booleanIsLoogedIn = Boolean(IsLoggedIn)
